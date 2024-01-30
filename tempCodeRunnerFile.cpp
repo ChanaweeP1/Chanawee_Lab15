@@ -1,2 +1,2 @@
-out << data[i] << " ";
-	sort(&data[5],&data[9]);
+
+	int arr[4] = {a,b,c,d};
